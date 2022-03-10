@@ -1,7 +1,10 @@
 # Javelin <img src="https://i.imgur.com/CtLBWyl.png" align="right">
 > Sebuah bot yang dibangun dengan penuh hati.
 
-Saya Javelin, Komandan. Senang bertemu denganmu.
+Saya `Javelin`, Komandan. Senang bertemu denganmu.
+
+![](https://i.imgur.com/RNy0UCA.png)
+
 
 <br>
 <br>
@@ -16,13 +19,29 @@ Saya Javelin, Komandan. Senang bertemu denganmu.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## Pengaturan-Bot
+
+1. Download and install [Node.js](https://nodejs.org) version `16.6.0`
+2. Buka `.env_example` ubah nama menjadi `.env`
+3. Install required and optional dependencies
+```sh
+$ npm install
+```
+5. you can start the bot
+```sh
+$ ts-node .
+```
+
+## Contributing
+
+Saya merasa senang jika kalian inggin melakukan kontribusi ke bot saya
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
 
 ## Author
 
