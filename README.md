@@ -5,21 +5,6 @@ Saya `Javelin`, Komandan. Senang bertemu denganmu.
 
 ![](https://i.imgur.com/tLXHVqb.png)
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Pengaturan-Bot
 
 1. Download and install [Node.js](https://nodejs.org) version `16.6.0`
@@ -32,6 +17,8 @@ $ npm install
 ```sh
 $ ts-node .
 ```
+
+<br>
 
 ## Contributing
 
