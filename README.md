@@ -3,7 +3,7 @@
 
 Saya `Javelin`, Komandan. Senang bertemu denganmu.
 
-![](https://i.imgur.com/j1G1XdY.png)
+![](https://i.imgur.com/tLXHVqb.png)
 
 
 <br>
