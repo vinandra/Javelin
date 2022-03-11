@@ -9,11 +9,11 @@ Saya `Javelin`, Komandan. Senang bertemu denganmu.
 
 1. Download and install [Node.js](https://nodejs.org) version `16.6.0`
 2. Buka `.env_example` ubah nama menjadi `.env`
-3. Install required and optional dependencies
+3. Instal dependensi yang diperlukan dan opsional
 ```sh
 $ npm install
 ```
-5. you can start the bot
+5. Anda dapat memulai bot
 ```sh
 $ ts-node .
 ```
